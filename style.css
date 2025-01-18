@@ -1,0 +1,38 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.stileContenitore {
+    display: flex;
+    align-items: center;
+    width: 700px;
+    margin: auto;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 20px;
+}
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 1rem;
+    background-color: darkgray;
+    text-transform:capitalize;
+    font-weight:600;
+
+}
+.btn-acceso {
+    color: red;
+}
+
+.btn-spento{
+
+}
+
+
+
+
+
